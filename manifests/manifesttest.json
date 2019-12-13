@@ -1,0 +1,479 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://view.nls.uk/manifest/1041/8476/104184765/manifest.json",
+	"@type": "sc:Manifest",
+	"attribution": "National Library of Scotland<br/>License: <a target=\"_top\" href=\"http://creativecommons.org/licenses/by/4.0/\">CC BY 4.0</a>",
+	"label": "Hermit of Warkworth",
+	"metadata": [
+		{
+			"label": "Title",
+			"value": "Hermit of Warkworth"
+		},
+		{
+			"label": "Description",
+			"value": "A Northumberland tale. In three parts. By Dr. Thomas Percy, Bishop of Dromore."
+		},
+		{
+			"label": "Part reference",
+			"value": ""
+		},
+		{
+			"label": "Shelfmark",
+			"value": "L.C.2817.A(13)"
+		},
+		{
+			"label": "",
+			"value": "<a href=\"http://digital.nls.uk/104184765\">View in our digital gallery</a>"
+		},
+		{
+			"label": "Full conditions of use",
+			"value": "You have permission to make copies of this work under the <a target=\"_top\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International Licence</a> unless otherwise stated."
+		}
+	],
+	"sequences": [
+		{
+			"@id": "https://view.nls.uk/manifest/1041/8476/104184765/canvas/default",
+			"@type": "sc:Sequence",
+			"canvases": [
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/1",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4608/108846080.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/1",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4608/108846080.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4608/108846080.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "1",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4608/108846080.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				},
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/2",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4609/108846092.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/2",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4609/108846092.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4609/108846092.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "2",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4609/108846092.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				},
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/3",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4610/108846104.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/3",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4610/108846104.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4610/108846104.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "3",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4610/108846104.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				},
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/4",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4611/108846116.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/4",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4611/108846116.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4611/108846116.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "4",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4611/108846116.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				},
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/5",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4612/108846128.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/5",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4612/108846128.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4612/108846128.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "5",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4612/108846128.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				},
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/6",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4614/108846140.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/6",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4614/108846140.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4614/108846140.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "6",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4614/108846140.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				},
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/7",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4615/108846152.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/7",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4615/108846152.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4615/108846152.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "7",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4615/108846152.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				},
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/8",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4616/108846164.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/8",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4616/108846164.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4616/108846164.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "8",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4616/108846164.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				},
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/9",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4617/108846176.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/9",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4617/108846176.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4617/108846176.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "9",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4617/108846176.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				},
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/10",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4618/108846188.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/10",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4618/108846188.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4618/108846188.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "10",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4618/108846188.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				},
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/11",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4620/108846200.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/11",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4620/108846200.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4620/108846200.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "11",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4620/108846200.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				},
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/12",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4621/108846212.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/12",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4621/108846212.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4621/108846212.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "12",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4621/108846212.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				},
+				{
+					"@id": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/13",
+					"@type": "sc:Canvas",
+					"height": 2276,
+					"images": [
+						{
+							"@id": "https://view.nls.uk/iiif/1088/4622/108846224.5/annotation",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://view.nls.uk/iiif/1041/8476/104184765/canvas/13",
+							"resource": {
+								"@id": "https://view.nls.uk/iiif/1088/4622/108846224.5/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 2276,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://view.nls.uk/iiif/1088/4622/108846224.5",
+									"profile": "http://iiif.io/api/image/2/profiles/level2.json"
+								},
+								"width": 1272
+							}
+						}
+					],
+					"label": "13",
+					"thumbnail": {
+						"@id": "https://deriv.nls.uk/dcn4/1088/4622/108846224.4.jpg",
+						"@type": "dctypes:Image",
+						"height": 269,
+						"width": 150
+					},
+					"width": 1272
+				}
+			],
+			"label": "default",
+			"rendering": [
+				{
+					"@id": "https://deriv.nls.uk/dcn23/1086/8158/108681586.23.pdf",
+					"format": "application/pdf",
+					"label": "Download as PDF"
+				}
+			],
+			"viewingHint": "paged"
+		}
+	]
+}
